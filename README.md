@@ -2,8 +2,6 @@
 
 Capstone Project 1 title: "Hurricanes Leading to Emergencies"
 
-Capstone Project 1 files:
-
 Data files are huralll020.dbf, phralll020.dbf and Emergencies_database.csv
 
 Python code is in the file "Hurricanes_Leading_to_Emergencies.ipynb"
